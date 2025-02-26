@@ -148,7 +148,7 @@ Decryption to Decryption `(Android 13 to Android 13)`
 
 > [!Important]
 > **May Required Files:**
-> * Retrofit Supported Recovery : 1.[OrangeFox Recovery](https://t.me/Al_Arabis_Cloud/301) 2.[TWRP Recovery](https://github.com/Helium-Studio/Action-TWRP-Builder/releases/download/9665912794/recovery.img)
+> * Retrofit Supported Recovery : 1.[OrangeFox Recovery](https://t.me/Al_Arabis_Cloud/301) 2.[TWRP Recovery](https://t.me/Al_Arabis_Cloud/312)
 > * Android 13 Legacy Recovery (For encrypted user's): [Tap here for link](https://t.me/Al_Arabis_Cloud/104)
 > * Android 13 Legacy Recovery (For decrypted user's): [Tap here for link](https://t.me/Al_Arabis_Cloud/107)
 > * Legacy2Retrofit.zip : [Tap Here for link](https://t.me/Al_Arabis_Cloud/108)
